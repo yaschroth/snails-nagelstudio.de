@@ -8,31 +8,31 @@ export const config = {
     name: "S NAILS",
     tagline: "NAGELSTUDIO FREIBURG IM BREISGAU",
     motto: "Nägel, Wimpern & Augenbrauen",
-    description: "Ihr professionelles Nagelstudio in Freiburg. Wir bieten erstklassige Nagelpflege, Nageldesign, Wimpernverlängerung und Augenbrauenbehandlungen.",
-    foundingYear: 2018,
-    yearsExperience: 7,
-    yearsInCenter: 7,
+    description: "S NAILS & BEAUTY ist ein exklusives Schönheitssalon in Freiburg. Wir bieten Nagelmodellage, Wimpernverlängerungen von 1D bis 6D, Microblading und Permanent Make-up.",
+    foundingYear: 2015,
+    yearsExperience: 10,
+    yearsInCenter: 10,
     satisfiedClients: "500+",
-    productBrands: ["Premium Gel", "Shellac"],
+    productBrands: ["Premium Gel", "Acryl", "Shellac"],
   },
 
   // ============================================
   // CONTACT INFORMATION
   // ============================================
   contact: {
-    phone: "+49 761 123 4567",
-    phoneLink: "tel:+497611234567",
-    email: "info@snails-freiburg.de",
-    whatsapp: "+49 761 123 4567",
-    whatsappLink: "https://wa.me/497611234567",
+    phone: "+49 1520 5209696",
+    phoneLink: "tel:+4915205209696",
+    email: "trendnails_americanstyle@yahoo.de",
+    whatsapp: "+49 1520 5209696",
+    whatsappLink: "https://wa.me/4915205209696",
     address: {
-      street: "Musterstraße 1",
+      street: "Brunnenstraße 6",
       city: "Freiburg im Breisgau",
       district: "Innenstadt",
       zip: "79098",
     },
-    googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2671.5!2d7.8494!3d47.9959!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47911b5c5b5b5b5b%3A0x0!2sFreiburg!5e0!3m2!1sde!2sde!4v1700000000000!5m2!1sde!2sde",
-    googleMapsLink: "https://www.google.com/maps/search/?api=1&query=Nagelstudio+Freiburg",
+    googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2671.5!2d7.8476764!3d47.9958743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47911b5c5b5b5b5b%3A0x0!2sBrunnenstra%C3%9Fe%206%2C%2079098%20Freiburg!5e0!3m2!1sde!2sde!4v1700000000000!5m2!1sde!2sde",
+    googleMapsLink: "https://www.google.com/maps/search/?api=1&query=Brunnenstraße+6,+79098+Freiburg+im+Breisgau",
   },
 
   // ============================================
@@ -40,7 +40,7 @@ export const config = {
   // ============================================
   social: {
     instagram: "https://www.instagram.com/nagelstudiofreiburg_snails",
-    facebook: "",
+    facebook: "https://www.facebook.com/SNails79098",
     tiktok: "",
   },
 
@@ -48,25 +48,25 @@ export const config = {
   // OPENING HOURS
   // ============================================
   hours: {
-    weekdays: "Mo-Fr 09:00-18:00",
-    saturday: "Sa 09:00-14:00",
+    weekdays: "Mo-Fr 09:30-19:30",
+    saturday: "Sa 09:30-19:30",
     sunday: "Geschlossen",
     note: "Termine nach Vereinbarung",
-    display: "Mo-Sa nach Vereinbarung",
+    display: "Mo-Sa 09:30-19:30",
   },
 
   // ============================================
   // BOOKING
   // ============================================
   booking: {
-    url: "https://www.instagram.com/nagelstudiofreiburg_snails",
+    url: "https://wa.me/4915205209696",
   },
 
   // ============================================
   // GOOGLE REVIEWS
   // ============================================
   reviews: {
-    rating: 5.0,
+    rating: 4.8,
     count: "100+",
     googleReviewLink: "https://www.google.com/search?q=s+nails+freiburg+bewertungen",
   },
@@ -79,49 +79,49 @@ export const config = {
     fullName: "S NAILS Team",
     image: "/beauty/maniküre 3.png",
     bio: [
-      "Willkommen bei S NAILS! Wir sind Ihr Spezialist für professionelle Nagelpflege und Nageldesign in Freiburg im Breisgau.",
-      "Ob Gelnägel, Shellac, Maniküre oder Pediküre: Bei uns bekommen Sie perfekt gepflegte Nägel mit kreativen Designs nach Ihren Wünschen.",
-      "Zusätzlich bieten wir Wimpernverlängerung und Augenbrauenbehandlungen an. Vereinbaren Sie noch heute Ihren Termin!",
+      "Willkommen bei S NAILS & BEAUTY! Wir sind Ihr exklusives Schönheitssalon in Freiburg im Breisgau.",
+      "Unser Angebot umfasst professionelle Nagelmodellage, Wimpernverlängerungen von 1D bis 6D, Microblading und Permanent Make-up. Wir arbeiten mit hochwertigen Produkten direkt aus den USA.",
+      "Bei uns stehen Qualität, Sauberkeit und Hygiene an erster Stelle. Vereinbaren Sie noch heute Ihren Termin!",
     ],
     certifications: [
       { label: "Zertifizierte Nageldesigner", icon: "award" },
-      { label: "Premium Produkte", icon: "star" },
+      { label: "PMU Experten", icon: "star" },
       { label: "Höchste Hygiene", icon: "shield" },
-      { label: "500+ zufriedene Kunden", icon: "check" },
+      { label: "4.8 Sterne Bewertung", icon: "check" },
     ],
   },
 
   // ============================================
-  // TESTIMONIALS
+  // TESTIMONIALS (Real reviews from ThreeBestRated)
   // ============================================
   testimonials: [
     {
       name: "Kundin",
       rating: 5,
-      text: "Die besten Gelnägel in Freiburg! Perfekte Form und das Design hält ewig. Sehr professionell und freundlich.",
-      service: "Gelnägel",
-      date: "Bewertung",
-    },
-    {
-      name: "Kundin",
-      rating: 5,
-      text: "Endlich ein Nagelstudio, das auch bei schwierigen Nägeln perfekte Ergebnisse liefert. Komme immer wieder gerne!",
+      text: "Es ist immer ein Vergnügen, in den S Nails Salon zu gehen. Sarah und das Team haben immer einen guten Job gemacht. Ich bin immer zufrieden mit ihrer Arbeit.",
       service: "Nagelmodellage",
-      date: "Bewertung",
+      date: "Google Bewertung",
     },
     {
       name: "Kundin",
       rating: 5,
-      text: "Tolle Maniküre und wunderschönes Nageldesign. Die Beratung war super und das Ergebnis noch besser!",
-      service: "Maniküre",
-      date: "Bewertung",
+      text: "War heute zum ersten Mal hier. Sehr nettes und freundliches Personal. Die Nägel sind toll geworden! Vielen Dank, ich werde gerne wiederkommen.",
+      service: "Gelnägel",
+      date: "Google Bewertung",
     },
     {
       name: "Kundin",
       rating: 5,
-      text: "Professionelle Wimpernverlängerung zu fairen Preisen. Sieht total natürlich aus und hält sehr gut.",
+      text: "Ich kam spontan für eine Pediküre hierher. Ich wurde freundlich begrüßt. Die Arbeit wurde sauber ausgeführt. Ich habe mich wohl gefühlt.",
+      service: "Pediküre",
+      date: "Google Bewertung",
+    },
+    {
+      name: "Kundin",
+      rating: 5,
+      text: "Sehr professionelles Studio! Die Wimpernverlängerung sieht fantastisch aus. Höchste Hygienestandards.",
       service: "Wimpernverlängerung",
-      date: "Bewertung",
+      date: "Google Bewertung",
     },
   ],
 
@@ -130,46 +130,46 @@ export const config = {
   // ============================================
   services: [
     {
-      title: "Gelnägel",
-      description: "Perfekte Gelnägel mit langanhaltender Haltbarkeit. Neumodellage und Auffüllung in allen Farben und Designs.",
-      price: "ab 45€",
+      title: "Nagelmodellage",
+      description: "Professionelle Nagelmodellage mit Gel oder Acryl. Neuanlage und Auffüllung in allen Farben und Designs.",
+      price: "ab 40€",
       image: "/beauty/maniküre 3.png",
       benefits: ["Langanhaltend", "Kreativ"],
     },
     {
-      title: "Shellac / Gel Polish",
-      description: "Brillante Farben mit Hochglanz-Finish. Hält bis zu 3 Wochen ohne Absplittern.",
+      title: "Russische Maniküre",
+      description: "Perfekte Nagelpflege mit der beliebten russischen Technik für makellose Ergebnisse.",
       price: "ab 35€",
       image: "/beauty/maniküre neu.png",
-      benefits: ["Hochglanz", "Schonend"],
-    },
-    {
-      title: "Maniküre",
-      description: "Klassische und Spa-Maniküre für gepflegte Hände. Mit Peeling, Massage und Lackierung.",
-      price: "ab 25€",
-      image: "/beauty/color.png",
-      benefits: ["Pflegend", "Entspannend"],
-    },
-    {
-      title: "Pediküre",
-      description: "Professionelle Fußpflege mit Hornhautentfernung, Nagelpflege und optionaler Lackierung.",
-      price: "ab 35€",
-      image: "/beauty/pedicure.webp",
-      benefits: ["Gründlich", "Gepflegt"],
+      benefits: ["Präzise", "Professionell"],
     },
     {
       title: "Wimpernverlängerung",
-      description: "Traumhaft volle Wimpern für einen verführerischen Blick. Klassisch, 2D oder Volume Lashes.",
+      description: "Traumhaft volle Wimpern von 1D bis 6D Volume. Natürlich bis glamourös nach Ihren Wünschen.",
       price: "ab 89€",
       image: "/beauty/wimpern.png",
-      benefits: ["Natürlich", "Voluminös"],
+      benefits: ["1D-6D Volume", "Langanhaltend"],
     },
     {
-      title: "Augenbrauen",
-      description: "Perfekt geformte Augenbrauen. Zupfen, Färben, Waxing und Brow Lifting.",
-      price: "ab 15€",
+      title: "Microblading",
+      description: "Perfekt definierte Augenbrauen mit natürlicher Härchenzeichnung. Langanhaltende Ergebnisse.",
+      price: "ab 250€",
       image: "/beauty/eyebrow-after.png",
-      benefits: ["Präzise", "Formgebend"],
+      benefits: ["Natürlich", "Langanhaltend"],
+    },
+    {
+      title: "Permanent Make-up",
+      description: "Professionelles Permanent Make-up für Augenbrauen, Lidstrich und Lippen.",
+      price: "ab 200€",
+      image: "/beauty/face.jpg",
+      benefits: ["Dauerhaft", "Professionell"],
+    },
+    {
+      title: "Pediküre",
+      description: "Professionelle Fußpflege mit Nagelpflege, Hornhautentfernung und optionaler Lackierung.",
+      price: "ab 35€",
+      image: "/beauty/pedicure.webp",
+      benefits: ["Gründlich", "Gepflegt"],
     },
   ],
 
@@ -178,24 +178,23 @@ export const config = {
   // ============================================
   pricing: [
     {
-      category: "Gelnägel",
+      category: "Nagelmodellage",
       items: [
-        { name: "Neumodellage Gel", price: "55€" },
-        { name: "Neumodellage mit Design", price: "65€" },
-        { name: "Auffüllung Gel", price: "45€" },
-        { name: "Auffüllung mit Design", price: "55€" },
-        { name: "Gel entfernen", price: "15€" },
-        { name: "Reparatur pro Nagel", price: "5€" },
+        { name: "Neumodellage Gel/Acryl Natur", price: "40€" },
+        { name: "Neumodellage mit Farbe/French", price: "45€" },
+        { name: "Auffüllung Natur", price: "35€" },
+        { name: "Auffüllung mit Farbe/French", price: "40€" },
+        { name: "Nagelreparatur pro Nagel", price: "5€" },
+        { name: "Gel/Acryl entfernen", price: "15€" },
       ],
     },
     {
       category: "Maniküre",
       items: [
         { name: "Klassische Maniküre", price: "25€" },
-        { name: "Spa Maniküre", price: "35€" },
-        { name: "Shellac Maniküre", price: "40€" },
-        { name: "Maniküre mit Gellack", price: "45€" },
-        { name: "French Maniküre", price: "50€" },
+        { name: "Russische Maniküre", price: "35€" },
+        { name: "Maniküre mit Shellac", price: "40€" },
+        { name: "Französische Maniküre", price: "45€" },
         { name: "Nagellack wechseln", price: "15€" },
       ],
     },
@@ -205,40 +204,37 @@ export const config = {
         { name: "Klassische Pediküre", price: "35€" },
         { name: "Wellness Pediküre", price: "45€" },
         { name: "Pediküre mit Shellac", price: "50€" },
-        { name: "Pediküre mit Gellack", price: "55€" },
         { name: "Fußnägel lackieren", price: "20€" },
       ],
     },
     {
-      category: "Nageldesign",
+      category: "Wimpernverlängerung",
       items: [
-        { name: "French Design", price: "+10€" },
-        { name: "Glitzer / Folien", price: "+8€" },
-        { name: "Steinchen pro Stück", price: "+2€" },
-        { name: "Nail Art pro Nagel", price: "+5€" },
-        { name: "Fullcover Design", price: "+15€" },
+        { name: "Klassische Wimpern 1D", price: "89€" },
+        { name: "Volume Wimpern 2D-3D", price: "109€" },
+        { name: "Volume Wimpern 4D-6D", price: "129€" },
+        { name: "Wimpern Auffüllung", price: "55€" },
+        { name: "Wimpern entfernen", price: "20€" },
       ],
     },
     {
-      category: "Wimpern",
+      category: "Permanent Make-up",
       items: [
-        { name: "Klassische Wimpern", price: "89€" },
-        { name: "2D Volume Wimpern", price: "109€" },
-        { name: "3D Volume Wimpern", price: "129€" },
-        { name: "Wimpern Auffüllung", price: "55€" },
-        { name: "Lash Lifting", price: "49€" },
-        { name: "Wimpern entfernen", price: "20€" },
+        { name: "Microblading Augenbrauen", price: "250€" },
+        { name: "Powder Brows", price: "280€" },
+        { name: "Lidstrich oben", price: "200€" },
+        { name: "Lippen Kontur", price: "250€" },
+        { name: "Lippen Vollschattierung", price: "350€" },
+        { name: "Auffrischung", price: "ab 100€" },
       ],
     },
     {
       category: "Augenbrauen",
       items: [
-        { name: "Augenbrauen zupfen", price: "15€" },
-        { name: "Augenbrauen waxen", price: "12€" },
+        { name: "Augenbrauen zupfen", price: "12€" },
+        { name: "Augenbrauen waxen", price: "10€" },
         { name: "Augenbrauen färben", price: "12€" },
-        { name: "Zupfen & Färben", price: "22€" },
-        { name: "Brow Lifting", price: "45€" },
-        { name: "Brow Lifting inkl. Färben", price: "55€" },
+        { name: "Zupfen & Färben", price: "20€" },
       ],
     },
   ],
@@ -251,12 +247,12 @@ export const config = {
     heroAlt: "S NAILS Nagelstudio Freiburg",
     hygiene: "/beauty/maniküre neu.png",
     gallery: [
-      { url: "/beauty/maniküre 3.png", category: "Gelnägel" },
+      { url: "/beauty/maniküre 3.png", category: "Nagelmodellage" },
       { url: "/beauty/maniküre neu.png", category: "Nageldesign" },
       { url: "/beauty/color.png", category: "Maniküre" },
       { url: "/beauty/pedicure.webp", category: "Pediküre" },
       { url: "/beauty/wimpern.png", category: "Wimpern" },
-      { url: "/beauty/eyebrow-after.png", category: "Augenbrauen" },
+      { url: "/beauty/eyebrow-after.png", category: "Microblading" },
     ],
   },
 
@@ -276,7 +272,7 @@ export const config = {
   // ============================================
   hygiene: {
     headline: "Qualität & Hygiene",
-    description: "Bei S NAILS arbeiten wir mit höchsten Hygienestandards und ausschließlich Premium-Produkten für perfekte Ergebnisse.",
+    description: "Bei S NAILS arbeiten wir mit höchsten Hygienestandards. Wir verwenden hochwertige Produkte direkt aus den USA für perfekte Ergebnisse.",
     features: [
       {
         icon: "shield",
@@ -285,18 +281,18 @@ export const config = {
       },
       {
         icon: "star",
-        title: "Premium Produkte",
-        description: "Wir verwenden nur hochwertige Gele und Lacke von renommierten Marken.",
+        title: "US Premium Produkte",
+        description: "Wir arbeiten mit hochwertigen Produkten direkt aus den USA.",
       },
       {
         icon: "award",
-        title: "Zertifizierte Nageldesigner",
+        title: "Zertifiziertes Team",
         description: "Unser Team ist professionell ausgebildet und regelmäßig geschult.",
       },
       {
         icon: "check",
-        title: "Individuelle Beratung",
-        description: "Wir nehmen uns Zeit für Ihre Wünsche und beraten Sie persönlich.",
+        title: "4.8 Sterne Bewertung",
+        description: "Über 100 zufriedene Kundinnen bewerten uns mit 4.8 Sternen.",
       },
     ],
   },
