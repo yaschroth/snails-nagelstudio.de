@@ -79,7 +79,7 @@ export const config = {
     fullName: "S NAILS Team",
     image: "/beauty/maniküre 3.png",
     bio: [
-      "Willkommen bei S NAILS & BEAUTY! Wir sind Ihr exklusives Schönheitssalon in Freiburg im Breisgau.",
+      "Willkommen bei S NAILS & BEAUTY! Wir sind Ihr exklusiver Schönheitssalon in Freiburg im Breisgau.",
       "Unser Angebot umfasst professionelle Nagelmodellage, Wimpernverlängerungen von 1D bis 6D, Microblading und Permanent Make-up. Wir arbeiten mit hochwertigen Produkten direkt aus den USA.",
       "Bei uns stehen Qualität, Sauberkeit und Hygiene an erster Stelle. Vereinbaren Sie noch heute Ihren Termin!",
     ],
