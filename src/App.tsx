@@ -574,8 +574,8 @@ const AboutSection = () => {
 
           <div className="space-y-8">
             <div>
-              <span className="text-primary uppercase tracking-[0.3em] text-[10px] font-bold mb-4 block">Über mich</span>
-              <h2 className="font-serif text-5xl md:text-6xl mb-8">Hallo, ich bin <br /><span className="italic">{config.owner.name}.</span></h2>
+              <span className="text-primary uppercase tracking-[0.3em] text-[10px] font-bold mb-4 block">Über uns</span>
+              <h2 className="font-serif text-5xl md:text-6xl mb-8">Hallo, wir sind <br /><span className="italic">{config.owner.name}.</span></h2>
             </div>
 
             <div className="space-y-6 text-black/70 leading-relaxed">
